@@ -1,6 +1,6 @@
 {
   "messages": [
-   {id: 0, subject: 'Hello world', body: 'Hello world'},
-   {id: 1, subject: 'Hello world again', body: 'Hello world again'}
+   {"id": 0, "subject": 'Hello world', "body": 'Hello world'},
+   {"id": 1, "subject": 'Hello world again', "body": 'Hello world again'}
   ]
 }
